@@ -1,3 +1,3 @@
-# Neual-network
+# Basic machine learning methods
 
-Based neual networks
+Some tools
